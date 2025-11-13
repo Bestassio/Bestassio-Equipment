@@ -42,11 +42,11 @@ GEAR:
 
 • LOGITECH G29 WHEEL + SHIFTER
 
-• LG Ultra-Wide 25 INCH 60Hz Monitor (Secondary)
+• Samsung Odyssey G4 240 Hz 27" LS27BG400EUXEN (x2 Primary & Secondary)
 
-• LG Gaming 24GN600-B IPS 144 Hz Monitor (Primary)
+• LG Gaming 24GN600-B IPS 144 Hz Monitor (Third Monitor)
 
-• Samsung TV (Third Monitor)
+• Unknown Samsung TV (Fourth Montor)
 
 • PS4 CONTROLLER
 
